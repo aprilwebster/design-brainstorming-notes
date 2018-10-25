@@ -6,7 +6,12 @@
 - Cartographic Visualization Research - presentation
 - Law Enforcement Resource Allocation (LERA) System - project report
 
-### References
+## References
+
+### Tamara Munzner's Research: Visualization Analysis & Design
+https://www.cs.ubc.ca/~tmm/vadbook/
+
+###
 
 ### DSC Webinar Series: Dashboard Design with the User in Mind
 - Recording: https://vimeo.com/295454709 (1 hr)
@@ -22,5 +27,4 @@
 - http://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf
 
 
-## Tamara Munzner's Research: Visualization Analysis & Design
-https://www.cs.ubc.ca/~tmm/vadbook/
+
