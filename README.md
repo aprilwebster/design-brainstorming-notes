@@ -26,8 +26,7 @@ https://www.cs.ubc.ca/~tmm/vadbook/
 ### Data + Design
 - http://orm-atlas2-prod.s3.amazonaws.com/pdf/13a07b19e01a397d8855c0463d52f454.pdf
 
-http://guides.library.harvard.edu/c.php?g=310952&p=2073187
-https://www.lynda.com/Design-Infographics-tutorials/Data-Visualization-Fundamentals/153776-2.html
-http://courses.cs.washington.edu/courses/cse512/16sp/a3.html
-http://www.creativebloq.com/design-tools/data-visualization-712402
+### Miscellaneous
+- http://courses.cs.washington.edu/courses/cse512/16sp/a3.html
+
 
